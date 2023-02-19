@@ -5,6 +5,4 @@ author 'Ionut'
 description 'Battle Royale Zone'
 version '1.0.0'
 
-client_script {
-'help-c.lua'
-}
+client_script "help-c.lua"

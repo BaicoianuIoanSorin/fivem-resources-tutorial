@@ -1,5 +1,9 @@
-description 'nui_example'
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
+author 'Ionut'
+fx_version 'cerulean'
+description 'Speedometer'
+version '1.0.0'
+games {"gta5"}
+
 ui_page 'html/index.html'
 
 client_scripts {
